@@ -4,6 +4,7 @@ Built By @jcarterbohan, @himshikha21 and @shraddha1803
 
 ## Requirements
 Compatible with Python 3.4-3.6
+
 Use `requirements.txt` to get the required libraries
 
 ## How to install
